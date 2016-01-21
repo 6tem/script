@@ -1,0 +1,20 @@
+Janvier 2016
+
+Auteur Mehdi bha
+Email : me10@6tem.org
+
+Petite pensée aux amis TSRIT ... 
+
+Installer :
+
+Paquet nginx + mysql + php (LAMP) installés.
+apt-get update
+apt-get upgrade
+
+chmod +x install.sh && ./install.sh
+
+Ensuite suivre l'installation et bien lire avant "ENTER" ;-)
+
+ps : Pour desinstaller : 
+
+chmod +x uninstall.sh && ./unisntall.sh
