@@ -2,7 +2,8 @@
 #
 #
 # Pré-requis
-# Nginx, PHP, MySQL, OpenSSL (Un serveur LEMP fonctionnel)
+# Nginx, PHP, MySQL, OpenSSL
+# apt-get install nginx && apt-get install php
 #
 # Installation:
 #
@@ -10,6 +11,8 @@
 # apt-get install git-core
 #
 #  https://github.com/6tem/script.git
+#
+#
 #
 # chmod a+x install.sh && ./install.sh
 #
